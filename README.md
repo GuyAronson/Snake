@@ -1,2 +1,2 @@
 # Snake
-Snake Game 
+Snake Game, Developed in JavaScript.
